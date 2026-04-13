@@ -69,12 +69,8 @@ Each entry in `credits` is an object with:
 The JSON Schema for `metadata.json` lives at [`schema/metadata.schema.json`](schema/metadata.schema.json).
 
 ## Contributing a localization
-
+Please contact me `@mcall` on Discord before tyring to contribute a new language.
 1. Fork this repo.
 2. Create `localizations/<language>/`.
 3. Add the original VDF file from the game and a `metadata.json` that matches the format above.
 4. Open a pull request. CI will validate the folder layout, `metadata.json` contents, and that the VDF file is present.
-
-### Requesting a new language or getting help
-
-**DM `@mcall` on Discord** to request a language, ask about the format, or get help preparing a contribution.
