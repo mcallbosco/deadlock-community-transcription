@@ -4,6 +4,7 @@
   "native_name": "Русский (Фан)",
   "country_code": "RU",
   "flag_emoji": "🇷🇺",
+  "base_language": "russian",
   "tooltip_text": "Fan translation by Торфусняк",
   "credits": [
     {
