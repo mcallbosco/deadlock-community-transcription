@@ -1,0 +1,18 @@
+{
+  "language": "example_language",
+  "friendly_name": "Example Language",
+  "native_name": "Example Language",
+  "country_code": "US",
+  "flag_emoji": "🏳️",
+  "tooltip_text": "Short description shown on hover.",
+  "credits": [
+    {
+      "name": "Your Name or Handle",
+      "link": "https://example.com"
+    },
+    {
+      "name": "Discord: your_handle",
+      "link": null
+    }
+  ]
+}

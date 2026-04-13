@@ -1,0 +1,22 @@
+{
+  "language": "russian_fan",
+  "friendly_name": "Russian (Fan)",
+  "native_name": "Русский (Фан)",
+  "country_code": "RU",
+  "flag_emoji": "🇷🇺",
+  "tooltip_text": "Fan translation by Торфусняк",
+  "credits": [
+    {
+      "name": "Telegram",
+      "link": "https://t.me/tofamode"
+    },
+    {
+      "name": "YouTube",
+      "link": "https://www.youtube.com/@Torfusdeadlock"
+    },
+    {
+      "name": "Discord: yukinnon",
+      "link": null
+    }
+  ]
+}
